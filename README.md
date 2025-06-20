@@ -16,7 +16,7 @@ A web-based **Library Management System (LMS)** developed using the **ASP.NET MV
 
 ---
 
-## Tech Stack
+## Technoligies used
 
 | Layer   | Technology                     |
 |---------|--------------------------------|
